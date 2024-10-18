@@ -11,7 +11,6 @@ Este projeto é parte do desafio de Programação Orientada a Objetos (POO), mod
 
 Evidências do código implementado:
 
-![Evidência 1](./evidencia/evidencia1.png)
 ![Evidência 2](./evidencia/evidencia2.png)
 
 ## UML Diagram
